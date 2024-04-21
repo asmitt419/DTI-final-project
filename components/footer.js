@@ -24,12 +24,12 @@ function footer() {
 
     <div class="quick-links">
         <div>
-            <img src="https://cdn1.cronometer.com/2021/landing/crono-logo-white.svg" alt="logo">
+            <img src="https://i.pinimg.com/736x/a0/8b/aa/a08baaad32de4e8634b3db73a8dad620.jpg" alt="logo">
         </div>
 
         <ul>
             <li>
-                <h4>Cronometer</h4>
+                <h4>ShapeSculptr</h4>
             </li>
             <li><a href="/">For Individuals</a></li>
             <li><a href="./pro.html">For professionals</a></li>
@@ -43,7 +43,7 @@ function footer() {
             </li>
             <li><a href="./about.html">About Us</a></li>
             <li><a href="./blog.html">Crono Blog</a></li>
-            <li><a href="./forums.html">Crono Forums</a></li>
+            <li><a href="./forums.html"> Forums</a></li>
             <li><a href="#">Jobs</a></li>
             <li><a href="./support.html">Support</a></li>
         </ul>
@@ -57,7 +57,7 @@ function footer() {
     </div>
 
     <div class="copyright">
-        <p>Copyright &#169; 2011-2022<br>All rights Reserved</p>
+        <p>Copyright &#169; 2024<br>All rights Reserved</p>
     </div>
 </div>`;
 }
